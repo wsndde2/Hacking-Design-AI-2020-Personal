@@ -1,6 +1,6 @@
 # 「 Hi! Here is Xinran Zhang  」
 
-![ai design](img/IBMdesign.png)
+![ai design](IBMdesign.png)
 
 
 
